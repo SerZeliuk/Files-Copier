@@ -65,4 +65,9 @@ https://github.com/user-attachments/assets/0979996d-b825-41f2-895e-c7f1386d4419
 - Interface was created using JavaFx library and Maven components
 - Layout was made using fxml and styling in css
 - For database integration I used SQLite
+
+# Downloading the app
+You can access the app in .exe format under following link:
+
+https://drive.google.com/file/d/1a6zCQGZrQkl5pU4nSu81S64kZl4jy0QO/view?usp=drive_link
   
