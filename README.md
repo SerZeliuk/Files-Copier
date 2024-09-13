@@ -59,4 +59,10 @@ were taken, but the next subfolders were already assigned to other clients.
 
 https://github.com/user-attachments/assets/0979996d-b825-41f2-895e-c7f1386d4419
 
+# Resources and technologies used 
 
+- Application's logic is written in Java, as it is easily integrated with interface and database technologies
+- Interface was created using JavaFx library and Maven components
+- Layout was made using fxml and styling in css
+- For database integration I used SQLite
+  
