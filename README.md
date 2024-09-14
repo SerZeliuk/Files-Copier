@@ -29,7 +29,7 @@ The combination of the **SUBFOLDER ID**, **FOLDER ID**, and **6 RANDOM NUMBERS**
 
 
 
-My program is designed to scan the files on SD-Cards: videos from Go-Pro cameras and photos form the digital camera.
+My program is designed to scan the files on SD-Cards: videos from Go-Pro cameras and photos from the digital camera.
 All the previously scanned files are kept in a database and than, the newly taken photos/videos are not yet in a database, so they are selected as the files, that should be copied to the client's folder. 
 To avoid checking iterating through thousands of files by every scan, I have implemented the heurystics, allowing to shorten the time complexity of scanning.
 
